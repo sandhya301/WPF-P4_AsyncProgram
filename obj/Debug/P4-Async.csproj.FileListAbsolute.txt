@@ -1,0 +1,14 @@
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\bin\Debug\P4-Async.exe.config
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\bin\Debug\P4-Async.exe
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\bin\Debug\P4-Async.pdb
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.csproj.AssemblyReference.cache
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\MainWindow.g.cs
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\App.g.cs
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async_MarkupCompile.cache
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\MainWindow.baml
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.g.resources
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4_Async.Properties.Resources.resources
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.csproj.GenerateResource.cache
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.csproj.CoreCompileInputs.cache
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.exe
+C:\Users\PGYSW023\source\repos\P4-Async\P4-Async\obj\Debug\P4-Async.pdb
